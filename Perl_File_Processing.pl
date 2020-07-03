@@ -1,7 +1,7 @@
 #
 # Name: Hassan Al-Saffar
 #
-# Description: File that processing log file and filters based on user input and regular expression.
+# Description: File processes text from a file and gives an output.
 #              This lab is seperated into six diffrent parts.
 
 use warnings;
